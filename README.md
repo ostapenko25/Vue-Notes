@@ -1,3 +1,5 @@
+Notes App on Vue.js 2
+
 # vue-cli
 
 ## Project setup
